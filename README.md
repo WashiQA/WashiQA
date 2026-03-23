@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**WashiQA/WashiQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Washington Rabanal
 
-Here are some ideas to get you started:
+💼 **Release Manager | Profesional en Tecnología | Entusiasta de la IA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una persona disciplinada, comprometida y apasionada por el aprendizaje continuo, especialmente en temas relacionados con la tecnología y la Inteligencia Artificial. Me desempeño como **Release Manager**, coordinando procesos, automatizando flujos y asegurando la calidad en cada entrega.
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+### 🔧 QA & DevOps
+- Postman  
+- Git & GitHub  
+- GitKraken  
+- JMeter  
+
+### 🗄️ Bases de Datos
+- MySQL  
+- SQL Server  
+
+### 💻 Lenguajes y Backend
+- PHP  
+
+---
+
+## 🌱 Intereses Profesionales
+- Inteligencia Artificial aplicada a QA  
+- Automatización de procesos  
+- Mejores prácticas de Release Management  
+- Integración continua y despliegue continuo (CI/CD)  
+
+---
+
+## 📫 Conecta conmigo
+
+- 💼 **LinkedIn:** www.linkedin.com/in/washingtonrabanalcanal  
+- 🐙 **GitHub:** https://github.com/WashiQA  
+
+---
+
+## 🧠 En constante aprendizaje
+Me motiva mejorar cada día, asumir nuevos retos y mantenerme actualizado con las nuevas tendencias tecnológicas. Creo firmemente que la disciplina y la curiosidad son claves para el crecimiento profesional.
+
+---
+
+✨ *Gracias por visitar mi perfil. ¡Siempre abierto a colaborar y aprender más!*
